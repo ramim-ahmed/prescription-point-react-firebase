@@ -1,0 +1,26 @@
+[
+  {
+    "id": "02sfa4",
+    "img": "https://i.ibb.co/M6XdSGZ/team4.png",
+    "name": "Dr. Stive Smith",
+    "title": "Dermatology"
+  },
+  {
+    "id": "0124sf",
+    "img": "https://i.ibb.co/sWM5nRm/team3.png",
+    "name": "Dr. Jessica Delis",
+    "title": "Orothopaedic"
+  },
+  {
+    "id": "lkjks0",
+    "img": "https://i.ibb.co/ch0JFNR/team1.png",
+    "name": "Dr. Paul Heyman",
+    "title": "Dental Surgery"
+  },
+  {
+    "id": "xysf01",
+    "img": "https://i.ibb.co/Y2zqkmM/team2.png",
+    "name": "Dr. Karle Methews",
+    "title": "Neurology"
+  }
+]

@@ -1,0 +1,20 @@
+body {
+  background-color: #fafafa;
+  font-family: "Roboto", sans-serif;
+}
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .nav-link {
+    @apply mr-5 hover:text-gray-900 font-bold;
+  }
+  .btn-regular {
+    @apply bg-green-600 px-6 py-2 text-white rounded-md;
+  }
+  .input-style {
+    @apply outline-none border border-gray-400 py-1 px-3 w-full focus:border-green-500 text-lg;
+  }
+}

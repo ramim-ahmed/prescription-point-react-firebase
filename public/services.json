@@ -1,0 +1,66 @@
+[
+  {
+    "id": "BFE9H0",
+    "img": "https://i.ibb.co/tJJ6gfZ/dental-1.jpg",
+    "title": "Dental Surgery",
+    "description": "Forth unto night their foubehold night theiearth.",
+    "price": 102,
+    "service": "24/7 Services"
+  },
+  {
+    "id": "XY1010",
+    "img": "https://i.ibb.co/MG42VvQ/Orthopeadic.jpg",
+    "title": "Orthopeadic",
+    "description": "Forth unto night their foubehold night theiearth.",
+    "price": 220,
+    "service": "24/7 Services"
+  },
+  {
+    "id": "AXZ03X",
+    "img": "https://i.ibb.co/3mw1n8y/surgery.jpg",
+    "title": "General Surgery",
+    "description": "Forth unto night their foubehold night theiearth.",
+    "price": 228,
+    "service": "24/7 Services"
+  },
+  {
+    "id": "MOBDXZ",
+    "img": "https://i.ibb.co/9ywNhxH/neurology.jpg",
+    "title": "Neurology",
+    "description": "Forth unto night their foubehold night theiearth.",
+    "price": 301,
+    "service": "24/7 Services"
+  },
+  {
+    "id": "KZ3302",
+    "img": "https://i.ibb.co/tsPMt5z/dermatologys.jpg",
+    "title": "Dermatology",
+    "description": "Forth unto night their foubehold night theiearth.",
+    "price": 118,
+    "service": "24/7 Services"
+  },
+  {
+    "id": "HYC03F",
+    "img": "https://i.ibb.co/HFbRF2y/lab.jpg",
+    "title": "Labrotory Testing",
+    "description": "Forth unto night their foubehold night theiearth.",
+    "price": 318,
+    "service": "24/7 Services"
+  },
+  {
+    "id": "WYBG0F",
+    "img": "https://i.ibb.co/BKHJd6P/womens-care.jpg",
+    "title": "Women's Care",
+    "description": "Forth unto night their foubehold night theiearth.",
+    "price": 188,
+    "service": "24/7 Services"
+  },
+  {
+    "id": "LH0P33",
+    "img": "https://i.ibb.co/FKDgDX1/ct-scan.jpg",
+    "title": "CT Scan Service",
+    "description": "Forth unto night their foubehold night theiearth.",
+    "price": 408,
+    "service": "24/7 Services"
+  }
+]
